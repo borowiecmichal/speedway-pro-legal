@@ -1,0 +1,22 @@
+{
+  "tos_version": 2,
+  "privacy_policy_version": 2,
+  "tos_effective_date": "2026-04-10",
+  "pp_effective_date": "2026-04-10",
+  "announcements": [
+    {
+      "id": "staging-welcome-2026-04-12",
+      "severity": "info",
+      "title": {
+        "pl": "Staging build",
+        "en": "Staging build"
+      },
+      "body": {
+        "pl": "To jest staging build Speedway Pro. Announcementy wyświetlane z /staging/config.json.",
+        "en": "This is the Speedway Pro staging build. Announcements shown from /staging/config.json."
+      },
+      "dismissible": true,
+      "expires_at": "2026-12-31"
+    }
+  ]
+}
