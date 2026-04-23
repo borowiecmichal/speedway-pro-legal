@@ -12,8 +12,8 @@
         "en": "Welcome to Speedway Pro! 🏁"
       },
       "body": {
-        "pl": "Dzięki, że jesteś z nami. Obserwuj nas na X (@SpeedwayProApp) oraz na Facebooku — publikujemy nowości, ciekawostki ze świata żużla i zbieramy pomysły od społeczności.",
-        "en": "Thanks for joining. Follow us on X (@SpeedwayProApp) and Facebook — we share updates, speedway insights, and gather ideas from the community."
+        "pl": "Dzięki, że jesteś z nami.\n\nObserwuj nas:\n• X: x.com/SpeedwayProApp\n• Facebook: facebook.com/SpeedwayProApp\n\nDzielimy się nowościami, ciekawostkami ze świata żużla i zbieramy pomysły od społeczności.",
+        "en": "Thanks for joining.\n\nFollow us:\n• X: x.com/SpeedwayProApp\n• Facebook: facebook.com/SpeedwayProApp\n\nWe share updates, speedway insights, and gather ideas from the community."
       },
       "action": {
         "type": "url",
